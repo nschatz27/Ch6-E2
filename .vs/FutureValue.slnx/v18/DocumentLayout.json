@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\akschatz1s\\Documents\\C#\\ExStarts\\ch06\\FutureValueExercise2\\FutureValue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E57F343D-968F-74E5-0901-9A6A50FC50D8}|FutureValue.csproj|c:\\users\\akschatz1s\\documents\\c#\\exstarts\\ch06\\futurevalueexercise2\\futurevalue\\frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E57F343D-968F-74E5-0901-9A6A50FC50D8}|FutureValue.csproj|solutionrelative:frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akschatz1s\\Documents\\C#\\ExStarts\\ch06\\FutureValueExercise2\\FutureValue\\frmFutureValue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frmFutureValue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E57F343D-968F-74E5-0901-9A6A50FC50D8}|FutureValue.csproj|C:\\Users\\akschatz1s\\Documents\\C#\\ExStarts\\ch06\\FutureValueExercise2\\FutureValue\\frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E57F343D-968F-74E5-0901-9A6A50FC50D8}|FutureValue.csproj|solutionrelative:frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akschatz1s\\Documents\\C#\\ExStarts\\ch06\\FutureValueExercise2\\FutureValue\\frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +50,7 @@
               "ToolTip": "C:\\Users\\akschatz1s\\Documents\\C#\\ExStarts\\ch06\\FutureValueExercise2\\FutureValue\\frmFutureValue.cs [Design]",
               "RelativeToolTip": "frmFutureValue.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T18:59:49.689Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-30T18:59:49.689Z"
             }
           ]
         }
